@@ -98,3 +98,48 @@
 13/01/2026 12:18:05  INFO WebDriverManager:1217 - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
 13/01/2026 12:18:05  INFO WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\gonza\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
 13/01/2026 12:18:12  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 22:35:12  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 22:35:12  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 22:35:12  INFO WebDriverManager:1217 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 22:35:12  INFO WebDriverManager:1270 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 22:35:23  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 22:35:23  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 22:35:23  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 22:35:23  INFO WebDriverManager:1217 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 22:35:23  INFO WebDriverManager:1270 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 22:35:34  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 22:35:34  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 22:35:34  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 22:35:34  INFO WebDriverManager:1217 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 22:35:34  INFO WebDriverManager:1270 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 22:35:38  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 22:46:48  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 22:46:48  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 22:46:48  INFO WebDriverManager:1217 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 22:46:48  INFO WebDriverManager:1270 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 22:46:59  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 22:46:59  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 22:46:59  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 22:46:59  INFO WebDriverManager:1217 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 22:46:59  INFO WebDriverManager:1270 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 22:47:07  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 22:47:07  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 22:47:07  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 22:47:07  INFO WebDriverManager:1217 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 22:47:07  INFO WebDriverManager:1270 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 22:47:11  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 23:09:14  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 23:09:14  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 23:09:14  INFO WebDriverManager:1246 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 23:09:14  INFO WebDriverManager:1308 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 23:09:23  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 23:09:23  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 23:09:23  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 23:09:23  INFO WebDriverManager:1246 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 23:09:23  INFO WebDriverManager:1308 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 23:09:34  INFO TestBase:104 - Browser closed and test execution completed
+22/02/2026 23:09:34  INFO TestBase:59 - Log4j configured successfully
+22/02/2026 23:09:34  INFO TestBase:69 - Properties loaded successfully
+22/02/2026 23:09:34  INFO WebDriverManager:1246 - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22/02/2026 23:09:34  INFO WebDriverManager:1308 - Exporting webdriver.chrome.driver as /home/dhanu/.cache/selenium/chromedriver/linux64/145.0.7632.77/chromedriver
+22/02/2026 23:09:38  INFO TestBase:104 - Browser closed and test execution completed
